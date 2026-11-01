@@ -207,7 +207,7 @@ def portrait_svg():
 </linearGradient>"""
     body = f"""
 <g fill="url(#ink)" font-size="{font}">{''.join(out)}</g>"""
-    write_svg("ascii-portrait.svg", window(W, H, "portrait.txt", body, defs))
+    write_svg("ascii-portrait.svg", window(W, H, "cat.txt", body, defs))
 
 
 # ---------------------------------------------------------------- info card
