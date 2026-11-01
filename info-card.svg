@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="490" height="420" viewBox="0 0 490 420" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace">
+<defs>
+<style>
+  .ln { opacity: 0; animation: fin 0.4s ease-out forwards; }
+  @keyframes fin { from { opacity: 0; transform: translateY(2px); } to { opacity: 1; transform: translateY(0); } }
+</style>
+<clipPath id="barClip"><rect x="24" y="382" width="442" height="6" rx="3"/></clipPath>
+</defs>
+<rect x="0.5" y="0.5" width="489" height="419" rx="10" fill="#0d1117" stroke="#30363d"/>
+<path d="M0.5 32 V10.5 a10 10 0 0 1 10 -10 H479.5 a10 10 0 0 1 10 10 V32 Z" fill="#161b22"/>
+<line x1="0.5" y1="32" x2="489.5" y2="32" stroke="#30363d"/>
+<circle cx="18" cy="16" r="5.5" fill="#ff5f56"/><circle cx="36" cy="16" r="5.5" fill="#ffbd2e"/><circle cx="54" cy="16" r="5.5" fill="#27c93f"/>
+<text x="245.0" y="20.5" fill="#8b949e" font-size="12" text-anchor="middle">swarnendu@github: ~</text>
+<g class="ln" style="animation-delay:0.50s"><text x="24" y="60" font-size="13" fill="#c9d1d9"><tspan fill="#39d353">$</tspan> neofetch</text></g>
+<g class="ln" style="animation-delay:0.59s"><text x="24" y="88" font-size="15" font-weight="700"><tspan fill="#39d353">swarnendu</tspan><tspan fill="#c9d1d9">@github</tspan></text></g>
+<g class="ln" style="animation-delay:0.68s"><line x1="24" y1="96" x2="168" y2="96" stroke="#30363d" stroke-dasharray="2 2"/></g>
+<g class="ln" style="animation-delay:0.77s"><text x="24" y="114" font-size="11.5" fill="#39d353" font-weight="700">Role</text><text x="106" y="114" font-size="11.5" fill="#c9d1d9">Full-Stack Dev • AI Enthusiast</text></g>
+<g class="ln" style="animation-delay:0.85s"><text x="24" y="133" font-size="11.5" fill="#58d5e8" font-weight="700">Now</text><text x="106" y="133" font-size="11.5" fill="#c9d1d9">Building AI-DETECTION &amp; EmbeddedChat</text></g>
+<g class="ln" style="animation-delay:0.93s"><text x="24" y="152" font-size="11.5" fill="#bc8cff" font-weight="700">OSS</text><text x="106" y="152" font-size="11.5" fill="#c9d1d9">Rocket.Chat (EmbeddedChat)</text></g>
+<g class="ln" style="animation-delay:1.01s"><text x="24" y="171" font-size="11.5" fill="#ffa657" font-weight="700">Uptime</text><text x="106" y="171" font-size="11.5" fill="#c9d1d9">9 mos on GitHub</text></g>
+<g class="ln" style="animation-delay:1.09s"><text x="24" y="190" font-size="11.5" fill="#ff7b9c" font-weight="700">Langs</text><text x="106" y="190" font-size="11.5" fill="#c9d1d9">JavaScript • Python • CSS</text></g>
+<g class="ln" style="animation-delay:1.17s"><text x="24" y="209" font-size="11.5" fill="#39d353" font-weight="700">Backend</text><text x="106" y="209" font-size="11.5" fill="#c9d1d9">Python • Node.js • Express • REST APIs</text></g>
+<g class="ln" style="animation-delay:1.25s"><text x="24" y="228" font-size="11.5" fill="#58d5e8" font-weight="700">Frontend</text><text x="106" y="228" font-size="11.5" fill="#c9d1d9">React • Next.js • Vite • Tailwind</text></g>
+<g class="ln" style="animation-delay:1.33s"><text x="24" y="247" font-size="11.5" fill="#bc8cff" font-weight="700">Projects</text><text x="106" y="247" font-size="11.5" fill="#c9d1d9">AI-DETECTION • FoodDeliveryPrediction</text></g>
+<g class="ln" style="animation-delay:1.41s"><text x="24" y="266" font-size="11.5" fill="#ffa657" font-weight="700">PRs</text><text x="106" y="266" font-size="11.5" fill="#c9d1d9">2 merged • 14 opened</text></g>
+<g class="ln" style="animation-delay:1.49s"><text x="24" y="285" font-size="11.5" fill="#ff7b9c" font-weight="700">Reviews</text><text x="106" y="285" font-size="11.5" fill="#c9d1d9">1 PRs reviewed • 0 issues</text></g>
+<g class="ln" style="animation-delay:1.57s"><text x="24" y="304" font-size="11.5" fill="#39d353" font-weight="700">Repos</text><text x="106" y="304" font-size="11.5" fill="#c9d1d9">8 public • 1 stars</text></g>
+<g class="ln" style="animation-delay:1.65s"><text x="24" y="323" font-size="11.5" fill="#58d5e8" font-weight="700">Streak</text><text x="106" y="323" font-size="11.5" fill="#c9d1d9">1d current • 7d best</text></g><g clip-path="url(#barClip)"><rect x="24.0" y="382" width="260.5" height="6" fill="#f1e05a"/><rect x="286.5" y="382" width="164.9" height="6" fill="#3572A5"/><rect x="453.4" y="382" width="11.0" height="6" fill="#663399"/><rect x="466.3" y="382" width="5.7" height="6" fill="#e34c26"/></g><circle cx="28.0" cy="400" r="3.5" fill="#f1e05a"/><text x="35.0" y="403" font-size="10" fill="#8b949e">JavaScript <tspan fill="#c9d1d9">58.9%</tspan></text><circle cx="290.5" cy="400" r="3.5" fill="#3572A5"/><text x="297.5" y="403" font-size="10" fill="#8b949e">Python <tspan fill="#c9d1d9">37.3%</tspan></text><circle cx="457.4" cy="400" r="3.5" fill="#663399"/><text x="464.4" y="403" font-size="10" fill="#8b949e">CSS <tspan fill="#c9d1d9">2.5%</tspan></text><circle cx="470.3" cy="400" r="3.5" fill="#e34c26"/><text x="477.3" y="403" font-size="10" fill="#8b949e">HTML <tspan fill="#c9d1d9">1.3%</tspan></text>
+</svg>
