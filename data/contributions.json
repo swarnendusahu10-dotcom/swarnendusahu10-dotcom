@@ -2,41 +2,6 @@
   "username": "swarnendusahu10-dotcom",
   "days": [
     {
-      "date": "2025-11-09",
-      "level": 0,
-      "count": 0
-    },
-    {
-      "date": "2025-11-10",
-      "level": 0,
-      "count": 0
-    },
-    {
-      "date": "2025-11-11",
-      "level": 0,
-      "count": 0
-    },
-    {
-      "date": "2025-11-12",
-      "level": 0,
-      "count": 0
-    },
-    {
-      "date": "2025-11-13",
-      "level": 0,
-      "count": 0
-    },
-    {
-      "date": "2025-11-14",
-      "level": 0,
-      "count": 0
-    },
-    {
-      "date": "2025-11-15",
-      "level": 0,
-      "count": 0
-    },
-    {
       "date": "2025-11-16",
       "level": 0,
       "count": 0
@@ -1753,8 +1718,8 @@
     },
     {
       "date": "2026-10-25",
-      "level": 2,
-      "count": 3
+      "level": 3,
+      "count": 4
     },
     {
       "date": "2026-10-26",
@@ -1853,19 +1818,24 @@
     },
     {
       "date": "2026-11-14",
-      "level": 1,
-      "count": 1
+      "level": 2,
+      "count": 2
+    },
+    {
+      "date": "2026-11-15",
+      "level": 3,
+      "count": 4
     }
   ],
   "stats": {
-    "total": 71,
-    "current_streak": 14,
-    "longest_streak": 14,
+    "total": 77,
+    "current_streak": 15,
+    "longest_streak": 15,
     "best_day": {
       "date": "2026-06-13",
       "count": 7
     },
-    "active_days": 35,
+    "active_days": 36,
     "busiest_weekday": "Saturday",
     "monthly": {
       "2025-11": 0,
@@ -1879,12 +1849,12 @@
       "2026-07": 0,
       "2026-08": 9,
       "2026-09": 4,
-      "2026-10": 16,
-      "2026-11": 24
+      "2026-10": 17,
+      "2026-11": 29
     },
     "range": [
-      "2025-11-09",
-      "2026-11-14"
+      "2025-11-16",
+      "2026-11-15"
     ]
   }
 }
