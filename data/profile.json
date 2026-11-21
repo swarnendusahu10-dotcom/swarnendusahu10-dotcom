@@ -5,12 +5,13 @@
   "public_repos": 9,
   "followers": 1,
   "following": 1,
-  "stars": 2,
+  "stars": 1,
   "languages": {
     "Jupyter Notebook": 67621202,
-    "JavaScript": 259272,
+    "TypeScript": 315121,
+    "JavaScript": 259366,
     "Python": 211549,
-    "CSS": 10909,
-    "HTML": 7149
+    "CSS": 27035,
+    "HTML": 3958
   }
 }
