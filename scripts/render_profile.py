@@ -71,7 +71,7 @@ ROLES = [
     "Building AI-DETECTION & FoodDelivery AI",
     "React • Node.js • Python • Machine Learning",
 ]
-TAGLINE = "Bhubaneswar, IN • Full-Stack Systems and AI"
+TAGLINE = "Kolkata, IN • Full-Stack Systems and AI"
 
 
 def header_svg():
@@ -303,7 +303,7 @@ def info_card_svg():
 
 
 # ---------------------------------------------------------------- globe
-HOME = ("Bhubaneswar", 20.2961, 85.8245)
+HOME = ("Kolkata", 22.5726, 88.3639)
 ARCS = [
     ("Rocket.Chat", 40.71, -74.00),
     ("Open Source", 37.77, -122.41),

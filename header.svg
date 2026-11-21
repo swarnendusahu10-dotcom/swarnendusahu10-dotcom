@@ -55,6 +55,6 @@
 <animate attributeName="x" values="60.0;60.0;472.8;472.8;60.0;60.0" keyTimes="0.0000;0.7500;0.8683;0.9450;0.9825;1.0000" dur="20.0s" repeatCount="indefinite"/>
 <animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;0.7500;0.9825;0.9826;1" dur="20.0s" repeatCount="indefinite" calcMode="discrete"/>
 </rect>
-<text x="40" y="184" font-size="12" fill="#8b949e">Bhubaneswar, IN • Full-Stack Systems and AI</text>
+<text x="40" y="184" font-size="12" fill="#8b949e">Kolkata, IN • Full-Stack Systems and AI</text>
 
 </svg>

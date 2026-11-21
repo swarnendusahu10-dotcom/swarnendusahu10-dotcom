@@ -15,7 +15,7 @@
 
 <table>
   <tr>
-    <td valign="top"><img src="./globe.svg" width="430" alt="Rotating 3D globe with arcs from India to open source communities" /></td>
+    <td valign="top"><img src="./globe.svg" width="430" alt="Rotating 3D globe with arcs from Kolkata to open source communities" /></td>
     <td valign="top"><img src="./tech-sphere.svg" width="430" alt="Tech stack on a rotating 3D sphere" /></td>
   </tr>
 </table>
@@ -34,7 +34,11 @@
 
 <br><br>
 
-<img src="./contrib-heatmap.svg" width="860" alt="Contribution heatmap for the last year" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./github-contribution-grid-snake.svg">
+  <img alt="GitHub Contribution Snake Animation" src="./github-contribution-grid-snake-dark.svg" width="860" />
+</picture>
 
 <br><br>
 
